@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="user_s_name">User\'s Name</string>
+    <string name="user_s_email">User\'s Email</string>
+</resources>
